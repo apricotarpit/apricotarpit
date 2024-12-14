@@ -1,8 +1,5 @@
 ## Hi there 👋
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=dark&hide_border=true)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apricotarpit)](https://github.com/apricotarpit/github-readme-stats)
 
 
 <!--
