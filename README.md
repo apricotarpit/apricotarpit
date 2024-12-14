@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apricotarpit)](https://github.com/apricotarpit/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apricotarpit&show_icons=true)](https://github.com/apricotarpit/github-readme-stats)
 
 
 <!--
