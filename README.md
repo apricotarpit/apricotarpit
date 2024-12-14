@@ -1,6 +1,8 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apricotarpit&show_icons=true)](https://github.com/apricotarpit/github-readme-stats)
+hey, I am Arpit Vaish, a B.Tech(Computer-Science Data -Science) student . Looking forward to learn new things and explore.
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=apricotarpit&show_icons=true&theme=default"/>
 
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apricotarpit&layout=compact"/>
 
 <!--
 **apricotarpit/apricotarpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
