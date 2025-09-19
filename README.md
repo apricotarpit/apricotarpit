@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/adiiidubey?theme=dark&ext=contest)](https://leetcode.com/u/Arpit-vaish123/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Arpit-vaish123?theme=dark&ext=contest)](https://leetcode.com/u/Arpit-vaish123/)
 
 ---
 
